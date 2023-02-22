@@ -94,5 +94,5 @@ Si vous appartenez à un Hub territorial avec qui nous ne sommes pas encore en l
 - [Organisation sur data.gouv](https://www.data.gouv.fr/fr/organizations/cartographie-nationale-des-lieux-de-mediation-numerique/)
 - [Schéma de donnée des lieux de médiation numérique](https://lamednum.coop/schema-de-donnees-des-lieux-de-mediation-numerique-2/)
 - [Ressource sur La Base](https://labase.anct.gouv.fr/base/356)
-- [Organisation gouvfr-anct sur NPM](https://www.npmjs.com/settings/gouvfr-anct/packages)
+- [Organisation gouvfr-anct sur NPM](https://www.npmjs.com/search?q=%40gouvfr-anct)
 - [Page du dispositif du programme société numérique](https://societenumerique.gouv.fr/fr/dispositif/cartographie-nationale/)
