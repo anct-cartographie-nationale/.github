@@ -4,7 +4,7 @@ Orienter les publics vers les structures répondant à leur besoin
 
 ## Contexte
 
-Plus de **13 millions** de Français ont des difficultés avec les usages numériques. Pour les accompagner, de nombreuses structures de médiation numériques comme celles accueillant des CNFS, celles labellisées France Services ou Aidants Connect, ou toute autre structure de médiation numérique en dehors des labellisations nationales ont vus le jour.
+Plus de **16 millions** de Français ont des difficultés avec les usages numériques. Pour les accompagner, de nombreuses structures de médiation numériques comme celles accueillant des CNFS, celles labellisées France Services ou Aidants Connect, ou toute autre structure de médiation numérique en dehors des labellisations nationales ont vus le jour.
 
 ## Double problématique
 
